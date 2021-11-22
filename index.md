@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to CocoSong's introduction
 
-You can use the [editor on GitHub](https://github.com/cocosongcc/Introduction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Bio (個人簡介)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+從開始進入職場以來近19年的時間，主要多是和客戶端的聯繫和溝通，擔任過商務開發和夥伴關係經理人。有15年的時間都待在同一家外商公司，雖然很被看重，但是公司缺乏新產品及轉型政策，毅然決然離開舒適圈，進入高科技的AI新創。在新創圈裡，有許多商業機會都是以服務創新為主，而服務創新有很大一部分端靠新型軟體達到，然而在新創圈的短短兩年之中，擔任商務開總監，由於對軟體前端及後端的理解不足，和工程師之間的溝通時常有斷層，造成不必要的誤解，也走了很多冤枉路。希望在下一個職場開始前，能充分補足技能與新關知識。
+# Reasons (為什麼想成為前端、後端、或全端工程師？)
+我是個不怕困難與挑戰的人，喜歡學習新的技術與了解市場趨勢，最近有太多題目值得探究，EV電池、碳關稅、碳足跡，區塊鍊、NFT ARVR、Metaverse ，深感自身的專業技能不足，常常不了解技術的困難與解決之道，因此無法提供專業諮詢或解決方案給客戶，因而失去許多商業機會。希望能藉由此次訓練課程，幫助自己在短時間內了解coding的架構與實作，讓自己也有機會成為開發人員，結合市場需求創業。
+# Past efforts (為了成為軟體工程師，曾經做過什麼努力？)
+目前就是在茫茫的youtube頻道中，尋找讓自己可以看得懂的課程與介紹，雖然資訊很多元，但是總覺得沒有經過有系統的訓練課程，常常會卡住，久而久之就放棄。而一般坊間的程式設計課程，良莠不齊，也不知道該從何學起。
+# Plan (如果參與這個計畫，會怎麼安排學習時間？)
+目前待業中，對未來投入的職場或領域希望能仔細挑選，不急著馬上跳進一個不清楚趨勢的坑，因此時間上的安排可以很充裕。
+目前計畫每周投入30~50小時學習
 
-### Markdown
+# Determination (如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？)
+過去在Youtube頻道上學習最大的問題就是遇到一些基礎問題時，或著卡住的時候不知道該問誰，上網查也不一定有效率，因此常常就放棄。參加這個學習的課程的好處就是有個專業團隊可以問問題^^，因此，我預期會常常打擾老師，希望老師可以回答我一些基本的笨問題
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Wish list ( 是否有想要加入的軟體公司？為什麼想加入該公司？)
+沒有特別想進的公司，因為這通常不是自己可以決定的，呵呵。
+其實我比較想做的事是自己開一間公司，把自己研發的產品或解決方案很快落地。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cocosongcc/Introduction/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Remark (想要對我們說的事情？)
+在我們那個年代，對經理人的職訓中心像是外貿協會，這費用超級可怕(~40萬/一年)，但是訓練完的成果大多可以找到不錯的工作，但還是單看進入的公司後續是否能永續發展。然而，對專業技術的職訓中心，就比較像是X匠電腦這種補習班，價格親民，也號稱有政府補助，但是效果不是很確定。貴司的這種方式比較少見，希望能看到明顯的效果，日後能更有規模推廣，幫助更多想轉職的人~
